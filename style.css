@@ -1,0 +1,117 @@
+.satisfy-regular {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.newspaper {
+    column-count: 3;
+    column-gap: 2em;
+    column-rule: 1px solid #ddd;
+   }
+   .headline {
+    font-family: "Times New Roman", serif;
+    font-weight: 700;
+    color: #222;
+   }
+   .caption {
+    font-size: 0.8em;
+    font-style: italic;
+}
+.title{
+    text-align: center;
+    font-family: "Satisfy", cursive;
+    margin-top: 50px;
+    font-size: 80px;
+    margin-bottom: 0;
+}
+.p1{
+    text-align: center;
+    font-size: 20px;
+    color: #91918e;
+    
+}
+.p2{
+    text-align: center;
+    font-size: 20px;
+    color: #91918e;
+    padding: 0;
+}
+.img1{
+    width: 285px;
+    height: 500px;
+}
+.min_title{
+    color: #222;
+    font-weight: 1000;
+    font-size: 30px;
+    text-align: left;
+}
+.dis1{
+    text-align: center;
+    font-size: 20px;
+    color: #91918e;
+}
+.p3{
+    text-align: left;
+    font-size: 15px;
+    color: #91918e;
+    font-style: italic;
+}
+.dis2{
+    font-weight: 576;
+    font-size: 20px;
+}
+.min_title1{
+    color: #961231;
+    font-size: 25px;
+    font-weight: 800;
+}
+.d3{
+    font-size: 18px;
+    color: #91918e;
+}
+.dis3{
+    color: #91918e;
+    font-size: 9px;
+    font-style: italic;
+}
+.p4{
+    font-size: 30px;
+    text-align: left;
+    color: #961231;
+    font-style: italic;
+
+}
+.p5{
+    font-size: large;
+    color: #595657;
+    font-weight: 100;
+}
+.menu{
+    border: 1px solid black;
+    padding: 10px;
+}
+.s{
+    font-size: 19px;
+}
+.d{
+    font-size: 20px;
+}
+.imp{
+    border: 1px;
+    background-color: #961231;
+    color: #fff;
+    padding: 10px;
+    font-size: larger;
+    text-align: center;
+}
+.min{
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+}
+.table, .min, .td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
